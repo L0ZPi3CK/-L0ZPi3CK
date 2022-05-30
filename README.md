@@ -8,4 +8,4 @@ Languages and Tools:
 
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="padding-right:10px;" />
 
-https://github-readme-stats.vercel.app/api?username={username}
+https://github-readme-stats.vercel.app/api?username={[username](https://github.com/L0ZPi3CK)}
