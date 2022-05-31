@@ -1,4 +1,4 @@
-I am a technical school graduate who is interested in programming.
+I am a technical school graduate and I am interested in programming.
 
 
 Languages and Tools:
