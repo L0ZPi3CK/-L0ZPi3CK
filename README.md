@@ -1,4 +1,4 @@
-I am a technical school graduate and I am interested in programming.
+Hey!
 
 
 Languages and Tools:
