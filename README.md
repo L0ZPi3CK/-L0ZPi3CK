@@ -1,4 +1,6 @@
-Hey! This is my profile. Here is my experience with C++.
+Hey! This is my profile. 
+
+Here is my experience with C++.
 
 Languages and Tools:
 
