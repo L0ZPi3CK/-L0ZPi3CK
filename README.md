@@ -1,7 +1,6 @@
-Hey! This is my profile. 
+Hey! Welcome to my profile. 
 
-Here is my experience with C++.
-
+I am interested in programming in c++.
 
 Languages and Tools:  
 
