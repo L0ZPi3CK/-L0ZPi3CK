@@ -1,5 +1,6 @@
 Hey!
-
+This is my profile.
+Here is my experience with programming.
 
 Languages and Tools:
 
