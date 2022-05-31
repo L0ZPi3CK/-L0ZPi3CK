@@ -1,5 +1,7 @@
 Hey! Welcome to my profile. 
 
+My adventure with c++ started in middle school and since then I'm still learning programming
+
 Here are the Languages and Tools I mostly use:
 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
@@ -12,3 +14,8 @@ Here are the Languages and Tools I mostly use:
 
 <img align="left" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="padding-right:10px;" />  
  
+I'm interested in:
+- Books (fantastics)
+- Programming
+- Calisthenics
+- Bike
