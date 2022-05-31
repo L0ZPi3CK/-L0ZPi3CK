@@ -10,6 +10,6 @@ Languages and Tools:
 <img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="padding-right:10px;" />
 <img align="left" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="padding-right:10px;" />  
-aaa  
+  
 
 I also know a little bit about:
