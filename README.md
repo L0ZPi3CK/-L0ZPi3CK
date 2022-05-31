@@ -12,7 +12,7 @@ Here are the Languages and Tools I mostly use:
 
 <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="padding-right:10px;" />
 
-<img align="left" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="padding-right:10px;" />  
+<img align="left" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="padding-right:10px;" />.  
  
 I'm interested in:
 - Books (fantastics)
