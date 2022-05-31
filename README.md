@@ -14,4 +14,7 @@ Languages and Tools:
 <img align="left" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="padding-right:10px;" />
 
 
+
+
+
 I also know a little bit about:
