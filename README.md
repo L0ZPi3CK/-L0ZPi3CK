@@ -15,7 +15,7 @@ Here are the Languages and Tools I mostly use:
 <img align="left" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="padding-right:10px;" /><br/> 
  
 I'm interested in:
-- Books (fantastics)
+- Literature (fantastics)
 - Programming
 - Calisthenics
-- Bike
+- Cycling
